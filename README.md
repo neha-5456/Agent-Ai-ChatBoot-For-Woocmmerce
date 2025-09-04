@@ -24,6 +24,6 @@ Frontend is a **floating chatbot widget** embeddable on any **WordPress + WooCom
 - Lightweight & easy to deploy
 
 ---
-
-
+Screenshoot:
+https://prnt.sc/JILO1OWgxRuo
 
